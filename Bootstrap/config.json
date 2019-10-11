@@ -1,0 +1,16 @@
+{
+	"params":
+	{
+		"local_server": "True",
+		"local_uri": "mysql://root:@localhost/datamanalyst",
+		"prod_uri": "mysql://root:@localhost/datamanalyst",
+		"twitter_url": "https://twitter.com/a4ankan",
+		"github_url": "https://github.com/a4ankan",
+		"gmail-user": "ankan.testing1693@gmail.com",
+		"gmail-password": "7387602402"
+	}
+
+
+
+
+}
